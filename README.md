@@ -1,8 +1,6 @@
 # iEPSA_2019
+Repository for the iEPSA computational study
 
-=============================================
-Repository for the iEPSA computational study.
-=============================================
 
 Request a licence for MOSEK in order for iEPSA to run. Do it here:
 
@@ -30,8 +28,6 @@ where "name" is the name of the benchmark problem you wish to solve (without any
 
 The output should look like :
 
-
-=================================================================
 [time,cpu_IP, Niter,Ze,Z0,P0,XB0,Niter_NM] = iepsa_19_d('degen2')
 Starting iEPSA, v. Nov/2019
 Slack variables have been added.
