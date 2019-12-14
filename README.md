@@ -22,3 +22,5 @@ The command is:
 [time,cpu_IP, Niter,Ze,Z0,P0,XB0,Niter_NM] = iepsa_19_d(name)
 
 where "name" is the name of the benchmark problem you wish to solve (without any file extension).
+
+The function "linprogIEPSA4" needs to be put in the same folder where the file "mosekopt.mexw64" exists, in the installation folder of the MOSEK software, that was added to path in MATLAB prior of executing iEPSA.
