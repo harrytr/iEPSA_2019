@@ -24,3 +24,7 @@ The command is:
 where "name" is the name of the benchmark problem you wish to solve (without any file extension).
 
 The function "linprogIEPSA4" needs to be put in the same folder where the file "mosekopt.mexw64" exists, in the installation folder of the MOSEK software, that was added to path in MATLAB prior of executing iEPSA.
+
+Please cite using :
+
+Triantafyllidis C.P. (2013). "A Non-Monotonic Infeasible Interior-Exterior Point Algorithm for Linear Programming", PhD Thesis, Dept. of Applied Informatics, University of Macedonia, Greece.
