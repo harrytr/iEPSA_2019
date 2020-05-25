@@ -36,4 +36,5 @@ The function "linprogIEPSA4" needs to be put in the same folder where the file "
 Please cite using :
 
 > [1] Triantafyllidis C.P. (2013). "A Non-Monotonic Infeasible Interior-Exterior Point Algorithm for Linear Programming", PhD Thesis, Dept. of Applied Informatics, University of Macedonia, Greece.
-[2] Triantafyllidis CP, Samaras N. 2020. A new non-monotonic infeasible simplex-type algorithm for Linear Programming. PeerJ Computer Science 6:e265 https://doi.org/10.7717/peerj-cs.265
+
+> [2] Triantafyllidis CP, Samaras N. 2020. A new non-monotonic infeasible simplex-type algorithm for Linear Programming. PeerJ Computer Science 6:e265 https://doi.org/10.7717/peerj-cs.265
